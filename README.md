@@ -15,4 +15,4 @@
 ![Aws](https://img.shields.io/badge/-Aws-%232c3e50?style=for-the-badge&logo=aws)
 
 ## Portfolio
-[edilsonsantos.co.za](http://edilsonsantos.tech)
+[edilsonsantos.tech](http://edilsonsantos.tech)
