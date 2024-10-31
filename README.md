@@ -18,7 +18,8 @@
 ## Portfolio
 [![Portfolio Screenshot](./images/website_thumbnail.png)](http://edilsonsantos.co.za)
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=edilsonsantos-co-za&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-![Code Wars](https://www.codewars.com/users/edilsonsantos-co-za/badges/large)
+## Wall of self improvement
+| Item | Current Stats |
+| ------ | ------ |
+| GitHub Streak | [![GitHub Streak](https://streak-stats.demolab.com?user=edilsonsantos-co-za&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
+| Code Wars | ![Code Wars](https://www.codewars.com/users/edilsonsantos-co-za/badges/large) |
