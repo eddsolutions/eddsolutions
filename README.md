@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./images/header.png)
 
 ## My Tech Stack
 
@@ -16,6 +16,6 @@
 ![Aws](https://img.shields.io/badge/-Aws-%232c3e50?style=for-the-badge&logo=aws)
 
 ## Portfolio
-[edilsonsantos.co.za](http://edilsonsantos.co.za)
+[![Portfolio Screenshot](./images/website_thumbnail.png)](http://edilsonsantos.co.za)
 
 ![Cool Giphy](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
