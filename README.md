@@ -18,4 +18,7 @@
 ## Portfolio
 [![Portfolio Screenshot](./images/website_thumbnail.png)](http://edilsonsantos.co.za)
 
-![Cool Giphy](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=edilsonsantos-co-za&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Code Wars](https://www.codewars.com/users/edilsonsantos-co-za/badges/large)
